@@ -1,0 +1,43 @@
+_repo: Hier-et-demain-b-pensees-breves_75601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2025-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75601'
+language: fr
+pgterms:marc904: https://polona.pl/preview/3ad0683e-c0ee-48c5-baaa-70d1479ca20f
+pgterms:marc905: 20250304124858lebon
+pgterms:marc906: '1918'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bErnest Flammarion, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Ethnopsychology'
+- !lcc 'D'
+- GITenberg
+tableOfContents: Livre I. Les forces qui mènent l'histoire -- Livre II. Pendant les
+  batailles -- Livre III. La psychologie des peuples -- Livre IV. Facteurs matériels
+  de la puissance des nations -- Livre V. Facteurs psychologiques de la puissance
+  des peuples -- Livre VI. Le gouvernement moderne des peuples -- Livre VII. Perspectives
+  d'avenir -- Livre VIII. Dans le cycle de la science.
+title: 'Hier et demain : $b pensées brèves'
+url: http://www.gutenberg.org/ebooks/75601
